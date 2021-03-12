@@ -2,20 +2,36 @@
   "userId": [
     "unifiedIdSystem",
     "pubCommonIdSystem",
-    "digiTrustIdSystem",
     "id5IdSystem",
     "parrableIdSystem",
     "britepoolIdSystem",
     "liveIntentIdSystem",
+    "lotamePanoramaId",
+    "merkleIdSystem",
     "criteoIdSystem",
     "netIdSystem",
-    "identityLinkIdSystem"
+    "identityLinkIdSystem",
+    "sharedIdSystem",
+    "intentIqIdSystem",
+    "zeotapIdPlusIdSystem",
+    "haloIdSystem",
+    "quantcastIdSystem",
+    "idxIdSystem",
+    "fabrickIdSystem",
+    "verizonMediaIdSystem",
+    "pubProvidedIdSystem",
+    "tapadIdSystem",
+    "novatiqIdSystem"
   ],
   "adpod": [
     "freeWheelAdserverVideo",
     "dfpAdServerVideo"
   ],
   "rtdModule": [
-    "browsiRtdProvider"
+    "browsiRtdProvider",
+    "haloRtdProvider",
+    "jwplayerRtdProvider",
+    "reconciliationRtdProvider",
+    "geoedgeRtdProvider"
   ]
 }
